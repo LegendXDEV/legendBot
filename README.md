@@ -1,6 +1,6 @@
 # legendBot
 
-npm packages
+**npm packages**
 
 npm i discord.js
 
