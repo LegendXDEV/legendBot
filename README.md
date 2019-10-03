@@ -2,7 +2,7 @@
 
 __**npm packages**__
 
-npm i discord.js
+npm i discord.js<https://www.npmjs.com/package/discord.js>
 
 npm i weather-js
 
