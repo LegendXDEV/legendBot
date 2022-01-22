@@ -17,7 +17,7 @@
     "give-me-a-joke": "^0.1.2",
     "math.js": "^1.1.45",
     "mathjs": "^6.2.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "opusscript": "0.0.7",
     "random-number": "0.0.9",
     "request": "^2.88.0",
